@@ -2,7 +2,6 @@
 
 given_string=input()
 n= len(given_string)
-# print(n)
 
 for i in range (0,n):
     if i%2 == 0:
